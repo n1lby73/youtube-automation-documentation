@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="17.0.0.0"
+    CreationTime="2025-05-23 17:56:19 (UTC)"
+    Runtime="SMART"
+    RtProjectName="connecting PLC to HMI.YT HMI[KTP400 Basic PN]"
+    RtProjectFolderName="connecting PLC to HMI.YT HMI[KTP400 Basic PN]"
+    DeviceType="KTP400_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="17.0.0.0"
+    ImageReleaseNo="17.0.0.0"
+    RTCV="17.0.0.0"
+    PRCV="17.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="KTP400" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+</DownloadTask>
